@@ -1,0 +1,15 @@
+Refer Youtube Video by Alex The Analyst: https://youtu.be/m1KcNV-Zhmc
+
+Refer Youtube Video to understand in Detail: https://youtu.be/nJIEIzF7tDw
+
+
+
+This is the SQL Subquery Tutorial which gives you a complete understanding of subqueries in SQL. 
+We start with explaining what a subquery is and then writing a sample SQL query containing a subquery 
+and then explaining how SQL processes a query statement containing a subquery.
+
+In this, we shall also look at the different types of subquery in SQL by writing SQL queries which uses these different types of subqueries. 
+We shall look at single row subquery, multiple row sub query, single column subquery, multiple column subquery and also the correlated subqueries.
+This will also explain about the different Clauses in SQL query where it is allowed to have a subquery 
+and we shall look at example queries to explain these differences.
+Finally, we will look at the SQL commands like INSERT, UPDATE and DELETE where it is allowed to use subqueries.
