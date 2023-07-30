@@ -1,0 +1,10 @@
+Window Functions in SQL which is also referred to as Analytic Function in some of the RDBMS. 
+SQL Window Functions covered in this file are RANK, DENSE RANK, ROW NUMBER, LEAD, LAG. Also, 
+we see how to use SQL Aggregate functions like MIN, MAX, SUM, COUNT, AVG as window function. 
+
+
+
+Refer Youtube Video: 1. https://youtu.be/Ww71knvhQ-s
+                     2. https://youtu.be/zAmJPdZu8Rg
+
+                     
