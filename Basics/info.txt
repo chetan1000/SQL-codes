@@ -1,0 +1,3 @@
+Youtube link: https://youtube.com/playlist?list=PLUaB-1hjhk8GT6N5ne2qpf603sF26m2PW
+
+it consists basic concept of SQL which are required for Data analytics.
